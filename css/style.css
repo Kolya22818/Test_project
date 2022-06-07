@@ -1,0 +1,9 @@
+.h1 {
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+    color: rgba(8, 19, 7, 0.724);   
+    display: flex;
+    justify-content: space-around; 
+    white-space: pre-line;
+    word-wrap: break-word;  
+}
